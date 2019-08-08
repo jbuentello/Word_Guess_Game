@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.HeaderTitle {
+    text-align: center;
+}
+
+.WinningImage {
+    text-align: top;
+    text-align: right;
+}
+
+img {
+    width: 40%;
+    /* height: 300px; */
+
+   
+}
+
+.container {
+    border: 4px dotted white;
+    margin
+}
